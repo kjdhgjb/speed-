@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kjdhgjb/speed-/main/main.lua"))()
-
 -- **Aaditya Lala Hub - Speed Hack**
 -- Professional Speed Modification Interface
 
